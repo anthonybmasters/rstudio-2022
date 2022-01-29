@@ -1,5 +1,5 @@
 ## Purpose
-The purpose of this folder to host code relating to mortality, whether from Covid-19 or other causes.
+The purpose of this folder is to host code relating to mortality, whether from Covid-19 or other causes.
 The first project looks at Covid-19 surveillance deaths in England, by date of death and reporting.
 
 ## Data sources
