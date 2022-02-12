@@ -147,4 +147,4 @@ mp_survey_summary_gg <- mp_survey_summary_df %>%
        subtitle = str_wrap("Estimated shares of MPs giving answers to the Savanta ComRes question: 'If you toss a fair coin twice, what is the probability of getting two heads?'. The Ipsos MORI question in 2011 started with: 'If you spin a coin twice...'. Simultaneous confidence intervals are at 95% confidence, calculated through the Sison-Glaz method.", width = 125),
        x = "Shares of MPs",
        y = "Response options",
-       caption = "Survey data: Savanta Comres (online, 17th November 2021 to 18th January 2022)\nand Ipsos MORI (face-to-face, 1st November to 20th December 2011).")
+       caption = "Survey data: Savanta ComRes (online, 17th November 2021 to 18th January 2022)\nand Ipsos MORI (face-to-face, 1st November to 20th December 2011).")
