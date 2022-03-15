@@ -157,7 +157,8 @@ ons_change_gg <- ons_change_tidy_df %>%
   scale_x_date(breaks = ons_change_breaks$date_3m,
                labels = ons_change_breaks$date_text,
                expand = c(0,0)) +
-  scale_y_continuous(limits = c(-1000, 500)) +
+  scale_y_continuous(labels = scales::comma_format(),
+                     limits = c(-1000, 500)) +
   scale_colour_manual(guide = "none",
                       values = c("#008080", "#0941B3", "#fe8c11", "black")) +
   geom_hline(yintercept = 0, linetype = "dashed") +
