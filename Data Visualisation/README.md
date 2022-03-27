@@ -6,7 +6,7 @@ The first project looks at showing other series on stacked bar graphs, such as a
 
 The second project shows simulatenous confidence intervals around estimates of MP responses to a statistical literacy question.
 
-The third projects shows posterior distributions for estimates of public responses to the same statistical question.
+The third project shows posterior distributions for estimates of public responses to the same statistical question.
 
 ## Data sources
 
