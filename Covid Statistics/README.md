@@ -23,5 +23,5 @@ There are R Markdown pages to view:
 - Luxembourg-UK confirmed cases (20th January 2022): https://rpubs.com/anthonybmasters/lux-uk-confirmed-cases
 - NHS England Covid hospital beds (20th March 2022): https://rpubs.com/anthonybmasters/nhs-england-covid-non-acute
 - Covid-19 trends in Wales (16th April 2022): https://rpubs.com/anthonybmasters/covid-trends-in-wales
-- COVID Tracker ICU Patients (23rd April 2022): https://rpubs.com/anthonybmasters/covid-tracker-icu-patients
+- COVID Tracker ICU Patients (22nd April 2022): https://rpubs.com/anthonybmasters/covid-tracker-icu-patients
 - Covid-19 notified deaths in Ireland (20th April 2022): https://rpubs.com/anthonybmasters/notified-covid-deaths-ireland
