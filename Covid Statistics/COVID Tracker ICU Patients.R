@@ -90,7 +90,7 @@ covid_tracker_gg <- covid_tracker_df %>%
   labs(title = covid_tracker_title,
        subtitle = str_wrap(covid_tracker_subtitle, width = 160),
        x = "Date",
-       y = "Currently in ICU with Covid-19",
+       y = "Current patients in ICU with Covid-19",
        caption = covid_tracker_caption)
 
 covid_nys_ann <- tribble(
@@ -124,5 +124,5 @@ covid_nys_gg <- covid_tidy_df %>%
   labs(title = covid_nys_title,
        subtitle = str_wrap(covid_nys_subtitle, width = 120),
        x = "Date",
-       y = "Currently in ICU with Covid-19",
+       y = "Current patients in ICU with Covid-19",
        caption = covid_tracker_caption)
