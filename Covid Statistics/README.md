@@ -7,13 +7,17 @@ The second project shows confirmed patients in England by primary diagnosis and 
 
 The third project shows coronavirus-related measures in Wales.
 
+The fourth project shows ICU patients by US states, according to COVID Tracker Project stats.
+
 ## Data sources
 - Our World in Data: https://ourworldindata.org/coronavirus-data-explorer
 - NHS England: https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/
 - ONS Infection Survey (Wales): https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/covid19infectionsurveywales
+- COVID Tracker Project (United States): https://covidtracking.com/data/download
 
 ## R Markdown
 There are R Markdown pages to view:
 - Luxembourg-UK confirmed cases (20th January 2022): https://rpubs.com/anthonybmasters/lux-uk-confirmed-cases
 - NHS England Covid hospital beds (20th March 2022): https://rpubs.com/anthonybmasters/nhs-england-covid-non-acute
 - Covid-19 trends in Wales (16th April 2022): https://rpubs.com/anthonybmasters/covid-trends-in-wales
+- COVID Tracker ICU Patients (23rd April 2022): https://rpubs.com/anthonybmasters/covid-tracker-icu-patients
